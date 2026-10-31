@@ -13,7 +13,7 @@ A quiet, keyboard-first web browser for Linux. The page fills the window; the ad
 You need Linux with a desktop, and Python 3 with `venv` (on Ubuntu and Debian: `sudo apt install python3-venv`).
 
 ```bash
-git clone https://github.com/bnsceo/thistle.git
+git clone https://github.com/AndersonPaulinoDev/thistle.git
 cd thistle
 bash start.sh
 ```
